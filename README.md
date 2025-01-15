@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a full stack developer using Spring Boot and Vaadin. Currently learning Kotlin and the Kotlin Multiplatform.
 
 <!--
 **corbettcode/corbettcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
