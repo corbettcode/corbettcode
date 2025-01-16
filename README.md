@@ -39,4 +39,8 @@ Engaged in developing a cross-platform application with shared logic and platfor
 Notable Strengths
 Deep understanding of programming paradigms, from low-level system programming to high-level modern abstractions.
 Adaptability to evolving technologies, seamlessly transitioning across eras and languages.
-Comprehensive experience across diverse hardware platforms and development environments.
+Comprehensive experience across diverse hardware platforms and development environments. Some of the components I'm working with:
+- [Compose multiplatform](https://github.com/JetBrains/compose-multiplatform)
+- [Precompose](https://github.com/Tlaster/PreCompose)
+- [Ktor](https://ktor.io/)
+- [Koin](https://insert-koin.io/)
