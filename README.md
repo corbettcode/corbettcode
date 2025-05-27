@@ -35,12 +35,17 @@ Embraced Kotlin, exploring its concise syntax, functional programming features, 
 Kotlin Multiplatform Exploration:
 
 Currently focusing on Kotlin Multiplatform, with a project centered around The Movie Database (TMDb).
-Engaged in developing a cross-platform application with shared logic and platform-specific customizations.
-Notable Strengths
+Engaged in developing a cross-platform application with shared logic and platform-specific customizations. 
+
+- [Compose multiplatform](https://github.com/JetBrains/compose-multiplatform)
+- [Ktor](https://ktor.io/)
+- [Koin](https://insert-koin.io/)
+
+Also, focused on Kobwed for website development.
+
+- [Kobweb](https://github.com/varabyte/kobweb)
+
+## Notable Strengths
 Deep understanding of programming paradigms, from low-level system programming to high-level modern abstractions.
 Adaptability to evolving technologies, seamlessly transitioning across eras and languages.
 Comprehensive experience across diverse hardware platforms and development environments. Some of the components I'm working with:
-- [Compose multiplatform](https://github.com/JetBrains/compose-multiplatform)
-- [Precompose](https://github.com/Tlaster/PreCompose)
-- [Ktor](https://ktor.io/)
-- [Koin](https://insert-koin.io/)
