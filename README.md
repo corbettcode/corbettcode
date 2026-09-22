@@ -32,20 +32,38 @@ Developed robust systems, applications, and performance-critical software.
 
 Proficient in Java, contributing to cross-platform solutions, enterprise applications, and Android development.
 Embraced Kotlin, exploring its concise syntax, functional programming features, and compatibility with existing Java ecosystems.
-Kotlin Multiplatform Exploration:
 
-Currently focusing on Kotlin Multiplatform, with a project centered around The Movie Database (TMDb).
-Engaged in developing a cross-platform application with shared logic and platform-specific customizations. 
+## 🔭 What I'm Working On (2026)
 
-- [Compose multiplatform](https://github.com/JetBrains/compose-multiplatform)
+### Kotlin Multiplatform apps
+Cross-platform apps with Compose Multiplatform for Android, iOS, and desktop, sharing as much logic as possible:
+
+- **Yet Another Garage Sale Finder App**: finding local garage sales
+- **Yet Another E-commerce App**: a Compose Multiplatform storefront
+- **Yet Another KMP Society App**: membership and society management
+
+### Kobweb websites
+Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](https://claude.com/claude-code) as a pair programmer:
+
+- [**2048**](https://github.com/corbettcode/host2048game): the classic puzzle game, built with Kobweb
+- **playgames4.fun**: a small collection of browser games
+- **All About Rocks**: an educational site about rocks and minerals
+- **SRAMS**: an organization website
+
+### Reusable libraries and architecture
+- A shared Kotlin Multiplatform library of commonly used components
+- An email verification library
+- Enterprise model patterns, CQRS, and an Entity-Attribute-Value (EAV) implementation in Kotlin
+- Functional-style Kotlin with [Arrow](https://arrow-kt.io/)
+
+### Tools I use
+- [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
 - [Ktor](https://ktor.io/)
 - [Koin](https://insert-koin.io/)
-
-Also, focused on Kobwed for website development.
-
 - [Kobweb](https://github.com/varabyte/kobweb)
+- [Claude Code](https://claude.com/claude-code)
 
 ## Notable Strengths
 Deep understanding of programming paradigms, from low-level system programming to high-level modern abstractions.
 Adaptability to evolving technologies, seamlessly transitioning across eras and languages.
-Comprehensive experience across diverse hardware platforms and development environments. Some of the components I'm working with:
+Comprehensive experience across diverse hardware platforms and development environments.
