@@ -45,8 +45,8 @@ Cross-platform apps with Compose Multiplatform for Android, iOS, and desktop, sh
 ### Health and medical data
 A newer focus: Kotlin Multiplatform apps and libraries for personal health records:
 
-- **My Medical Info**: a patient app for tracking medications, with a health log, appointments, and care-team records planned. One Compose UI on Android, iOS, and desktop over a Ktor + Postgres server designed for health data
-- **Medical Data library**: a KMP library covering patient details, medications, prescriptions, allergies, appointments, and observations. Each feature ships with its domain model, Ktor server, HTTP client, and Compose screens
+- **My Medical Info**: a patient app for tracking medications, with a health log, appointments, and care-team records planned. One Compose UI on Android, iOS, and desktop over a Ktor + Postgres server designed for health data. Recently added Google sign-in on all three platforms, a guided onboarding flow for adding medicines and pill bottles, and recording doses taken from Today's Meds
+- **Medical Data library**: a KMP library covering patient details, medications, prescriptions, allergies, appointments, and observations. Each feature ships with its domain model, Ktor server, HTTP client, and Compose screens. Newest additions map to FHIR R5: medication administrations, audit events, schedules, and bookable slots, plus dosage courses (such as tapers) and browsing the Open Medication Catalog
 - Exploring [FHIR](https://hl7.org/fhir/) interoperability with Google's [Kotlin FHIR](https://github.com/google/kotlin-fhir) library ([demo fork](https://github.com/corbettcode/kmp-fhir-demo))
 
 ### Kobweb websites
@@ -54,18 +54,18 @@ Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](ht
 
 - **corbettcode.com**: my own site, exported as a fully static Kobweb site
 - [**2048**](https://github.com/corbettcode/host2048game): the classic puzzle game, built with Kobweb
-- **playgames4.fun**: a small collection of browser games
+- [**playgames4.fun**](https://github.com/corbettcode/playgames4fun): a growing collection of browser games, now 12 including Klondike solitaire, Sudoku, Minesweeper, Reversi, and Nine Men's Morris, with how-to-play guides
 - **All About Rocks**: an educational site about rocks and minerals
 - **SRAMS**: an organization website
 
 ### Reusable libraries and architecture
 - A shared Kotlin Multiplatform library of commonly used components
-- An email verification library
+- An email verification library, being prepared for publishing to Maven Central
 - Enterprise model patterns, CQRS, and an Entity-Attribute-Value (EAV) implementation in Kotlin
 - Functional-style Kotlin with [Arrow](https://arrow-kt.io/)
 
 ### Mind mapping
-- [**MindMapView**](https://github.com/corbettcode/MindMapView): a fork of a Kotlin mind-map view library, now [runnable in the browser](https://corbettcode.github.io/MindMapView/)
+- [**MindMapView**](https://github.com/corbettcode/MindMapView): a fork of a Kotlin mind-map view library, now [runnable in the browser](https://corbettcode.github.io/MindMapView/). Version 1.7 adds themes, images stored in `.mmv` map files, importing a folder as a mind map, separate styles for root topics, topics, and subtopics, and keyboard navigation
 - [**FreeMind CE**](https://github.com/corbettcode/freemind-ce): following the modernized FreeMind (Java 21, cross-platform)
 
 ### Tools I use
