@@ -31,7 +31,7 @@ Developed robust systems, applications, and performance-critical software.
 ### Modern Era (2000s–Present):
 
 Proficient in Java, contributing to cross-platform solutions, enterprise applications, and Android development.
-Embraced Kotlin, exploring its concise syntax, functional programming features, and compatibility with existing Java ecosystems.
+Embraced Kotlin, exploring its concise syntax, libraries, functional programming features, and compatibility with existing Java ecosystems.
 
 ## 🔭 What I'm Working On (2026)
 
@@ -65,7 +65,7 @@ Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](ht
 - Functional-style Kotlin with [Arrow](https://arrow-kt.io/)
 
 ### Mind mapping
-- [**MindMapView**](https://github.com/corbettcode/MindMapView): a fork of a Kotlin mind-map view library, now [runnable in the browser](https://corbettcode.github.io/MindMapView/). Version 1.7 adds themes, images stored in `.mmv` map files, importing a folder as a mind map, separate styles for root topics, topics, and subtopics, and keyboard navigation
+- [**MindMapView**](https://github.com/corbettcode/MindMapView): a fork of a Kotlin mind-map view library, now [runnable in the browser](https://corbettcode.github.io/MindMapView/). Version 1.7.1 adds themes, images stored in `.mmv` map files, importing a folder as a mind map, separate styles for root topics, topics, and subtopics, and keyboard navigation
 - [**FreeMind CE**](https://github.com/corbettcode/freemind-ce): following the modernized FreeMind (Java 21, cross-platform)
 
 ### Tools I use
@@ -74,6 +74,9 @@ Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](ht
 - [Koin](https://insert-koin.io/)
 - [Kobweb](https://github.com/varabyte/kobweb)
 - [Claude Code](https://claude.com/claude-code)
+- [PostgreSQL](https://www.postgresql.org/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Docker](https://www.docker.com/)
 
 ## Notable Strengths
 Deep understanding of programming paradigms, from low-level system programming to high-level modern abstractions.
