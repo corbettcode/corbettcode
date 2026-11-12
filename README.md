@@ -52,11 +52,11 @@ A newer focus: Kotlin Multiplatform apps and libraries for personal health recor
 ### Kobweb websites
 Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](https://claude.com/claude-code) as a pair programmer:
 
-- **corbettcode.com**: my own site, exported as a fully static Kobweb site
-- [**2048**](https://github.com/corbettcode/host2048game): the classic puzzle game, built with Kobweb
-- [**playgames4.fun**](https://github.com/corbettcode/playgames4fun): a growing collection of browser games, now 12 including Klondike solitaire, Sudoku, Minesweeper, Reversi, and Nine Men's Morris, with how-to-play guides
+- **KMP Wizard**: a Kotlin Multiplatform project wizard
+- **SRAMS**: website for a Shelton Rock and Mineral Society
+- [**playgames4.fun**](https://github.com/corbettcode/playgames4fun): a growing collection of browser games, now 12 including Klondike solitaire, Sudoku, Minesweeper, Reversi, and Nine Men's Morris, with history and how-to-play guides
 - **All About Rocks**: an educational site about rocks and minerals
-- **SRAMS**: an organization website
+- **corbettcode.com**: my own site, exported as a fully static Kobweb site
 
 ### Reusable libraries and architecture
 - A shared Kotlin Multiplatform library of commonly used components
