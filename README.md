@@ -43,14 +43,14 @@ Cross-platform apps with Compose Multiplatform for Android, iOS, and desktop, sh
 - **Yet Another KMP Society App**: membership and society management
 
 ### Health and medical data
-A newer focus: Kotlin Multiplatform apps and libraries for personal health records:
+A newer focus: Kotlin Multiplatform apps (SaaS) and libraries for personal health records:
 
 - **My Medical Info**: a patient app for tracking medications, with a health log, appointments, and care-team records planned. One Compose UI on Android, iOS, and desktop over a Ktor + Postgres server designed for health data. Recently added Google sign-in on all three platforms, a guided onboarding flow for adding medicines and pill bottles, and recording doses taken from Today's Meds
 - **Medical Data library**: a KMP library covering patient details, medications, prescriptions, allergies, appointments, and observations. Each feature ships with its domain model, Ktor server, HTTP client, and Compose screens. Newest additions map to FHIR R5: medication administrations, audit events, schedules, and bookable slots, plus dosage courses (such as tapers) and browsing the Open Medication Catalog
 - Exploring [FHIR](https://hl7.org/fhir/) interoperability with Google's [Kotlin FHIR](https://github.com/google/kotlin-fhir) library ([demo fork](https://github.com/corbettcode/kmp-fhir-demo))
 
 ### Kobweb websites
-Building full websites in Kotlin with Kobweb, increasingly with [Claude Code](https://claude.com/claude-code) as a pair programmer:
+Building full websites in Kotlin with [Kobweb](https://github.com/varabyte/kobweb), increasingly with [Claude Code](https://claude.com/claude-code) as a pair programmer:
 
 - **KMP Wizard**: a Kotlin Multiplatform project wizard
 - **SRAMS**: website for a Shelton Rock and Mineral Society
